@@ -1,0 +1,14 @@
+{
+  "Title": "sound_testmap",
+  "Type": "map",
+  "Org": "local",
+  "Ident": "sound_testmap",
+  "Schema": 1,
+  "HasAssets": true,
+  "AssetsPath": "",
+  "ResourcePaths": null,
+  "HasCode": false,
+  "CodePath": null,
+  "RootNamespace": null,
+  "Metadata": {}
+}
